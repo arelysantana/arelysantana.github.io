@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+body {
+  font-family: 'Open Sans Condensed' ;
+  color: red;
+  background-color: #ffffff;
+}
+body {background-color: pink}
+
+p { color: red; background-color: #CCCCFF; }
+
+strong {font-size: 300%; }
+h1{
+  @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+}
